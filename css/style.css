@@ -90,6 +90,11 @@ footer small{
     font-size: 12px;
 }
 
+.contents{
+    width: 960px;
+    margin: 0 auto;
+}
+
 #index h1{
     font-size: 100px;
     line-height: 1;
@@ -121,10 +126,9 @@ footer small{
     background-size: cover;
 }
 
-#index #wrapper{
-    font-size: 100px;
+#index .contents{
+    font-size: 16px;
     line-height: 1;
     color: black;
     font-family: 'Playfair Display', serif;
-    margin-bottom: 50px;
 }
