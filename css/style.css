@@ -54,8 +54,8 @@ p,h1,h2,h3,h4,h5,h6{
 
 img{
     vertical-align: bottom;
-    width: 65px;
-    height: 65px;
+    width: 75px;
+    height: 75px;
 }
 
 ul{
@@ -93,7 +93,7 @@ footer small{
 .box {
     width: 200px;                /* 横幅を200pxに指定 */
     height: 100px;               /* 横幅を200pxに指定 */
-    border: 1px solid #000;      /* わかりやすくボーダーを引く */
+    border: 1px solid rgb(116, 116, 116);      /* わかりやすくボーダーを引く */
     overflow-y: scroll;          /* 縦方向にスクロール可能にする */
     -ms-overflow-style: none;
     scrollbar-width: none;
@@ -132,4 +132,13 @@ footer small{
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.box{
+    width: 960px;
+    margin: 0 auto;
+}
+
+#index .box{
+    margin-top: 150px;
 }
