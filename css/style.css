@@ -121,13 +121,7 @@ footer small{
     background-size: cover;
 }
 
-#index p.infobox {
-    height:8em;
-    width:40em;
-    overflow: auto;
-    border: #000 1px dashed;
-    text-align:left;
-    margin-right: auto;
-    margin-left: auto;
-    padding:10px;
-    line-height:1.8em }
+#index #wrap #contents{
+    width: 960px;
+    margin: 0 auto;
+}
