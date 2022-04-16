@@ -54,7 +54,7 @@ p,h1,h2,h3,h4,h5,h6{
 
 img{
     vertical-align: bottom;
-    width: 96px;
+    width: 65px;
     height: 65px;
 }
 
@@ -88,4 +88,31 @@ footer{
 
 footer small{
     font-size: 12px;
+}
+
+#index h1{
+    font-size: 100px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 50px;
+}
+
+#index .content{
+    margin-top: 150px;
+}
+
+#index p{
+    font-size: 16px;
+    color: black;
+}
+
+#index footer{
+    width: 960px;
+    margin: 150px auto 0 auto;
+    text-align: left;
+}
+
+#index{
+    background-image: url(../images/haikei.png);
 }
