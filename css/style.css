@@ -90,10 +90,18 @@ footer small{
     font-size: 12px;
 }
 
-.contents{
-    width: 960px;
-    margin: 0 auto;
-}
+.box {
+    width: 200px;                /* 横幅を200pxに指定 */
+    height: 200px;               /* 横幅を200pxに指定 */
+    border: 1px solid #000;      /* わかりやすくボーダーを引く */
+    overflow-y: scroll;          /* 縦方向にスクロール可能にする */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .box::-webkit-scrollbar{
+      display: none;
+  }
 
 #index h1{
     font-size: 100px;
@@ -124,11 +132,4 @@ footer small{
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
-}
-
-#index .contents{
-    font-size: 16px;
-    line-height: 1;
-    color: black;
-    font-family: 'Playfair Display', serif;
 }
