@@ -121,7 +121,10 @@ footer small{
     background-size: cover;
 }
 
-#index #wrap #contents{
-    width: 960px;
-    margin: 0 auto;
+#index #wrapper{
+    font-size: 100px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 50px;
 }
