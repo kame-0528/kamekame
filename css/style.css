@@ -1,8 +1,4 @@
 @charset "utf-8";
-/* 冒頭でimport */
-@import url('https://fonts.googleapis.com/css?family=Raleway:700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,700&display=swap&subset=japanese');
-/* フォントを指定したいところで */
 
 body{
     margin: 0;
@@ -79,4 +75,14 @@ a:hover{
 
 #wrap{
     clear: both;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    padding: 20px 0;
+}
+
+footer small{
+    font-size: 12px;
 }
