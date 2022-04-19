@@ -3,7 +3,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #bfe6bb;
+    background-color: #98bc62;
     color: black;
     font-size: 15px;
     line-height: 2;
@@ -63,15 +63,7 @@ footer small{
 }
 
 #index h2{
-    font-size: 80px;
-    line-height: 1;
-    color: black;
-    font-family: 'Playfair Display', serif;
-    margin-bottom: 50px;
-}
-
-#index h3{
-    font-size: 80px;
+    font-size: 90px;
     line-height: 1;
     color: black;
     font-family: 'Playfair Display', serif;
