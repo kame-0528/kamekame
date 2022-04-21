@@ -41,7 +41,7 @@ a{
 }
 
 a:visited{
-    color: darkgray;
+    color: rgb(84, 84, 84);
 }
 
 a:hover{
