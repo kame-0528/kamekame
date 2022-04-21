@@ -100,3 +100,10 @@ footer small{
     background-attachment: fixed;
     background-size: cover;
 }
+
+.henkou img{
+    width: 480px;
+    float: left;
+    list-style: none;
+    margin: 0 20px 15px 0;
+}
