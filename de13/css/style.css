@@ -29,7 +29,7 @@ p,h1,h2,h3,h4,h5,h6{
     margin-top: 0;
 }
 
-img{
+.logp img{
     vertical-align: bottom;
     width: 75px;
     height: 75px;
@@ -98,5 +98,4 @@ footer small{
 
 .content img{
     width: 960px
-    margin-top: 50px
 }
