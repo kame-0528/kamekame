@@ -70,14 +70,6 @@ footer small{
     margin-bottom: 50px;
 }
 
-#index h3{
-    font-size: 50px;
-    line-height: 1;
-    color: black;
-    font-family: 'Playfair Display', serif;
-    margin-bottom: 20px;
-}
-
 #index h4{
     font-size: 30px;
     line-height: 1;
@@ -88,11 +80,6 @@ footer small{
 
 #index .content{
     margin-top: 150px;
-}
-
-#index p{
-    font-size: 16px;
-    color: black;
 }
 
 #index footer{
@@ -107,4 +94,9 @@ footer small{
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.content img{
+    width: 960px
+    margin-top: 50px
 }
