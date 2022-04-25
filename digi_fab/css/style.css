@@ -57,6 +57,14 @@ footer small{
     margin-bottom: 50px;
 }
 
+#index h4{
+    font-size: 30px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+
 #index .content{
     margin-top: 150px;
 }
