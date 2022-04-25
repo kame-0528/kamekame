@@ -87,3 +87,8 @@ footer small{
     background-attachment: fixed;
     background-size: cover;
 }
+
+#wrap img{
+    width: 960px;
+    margin: 10px auto 0 auto;
+}
