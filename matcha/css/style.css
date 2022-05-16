@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #bfe6bb;
+    color: black;
+    font-size: 15px;
+    line-height: 2;
+}
+
+header{
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    margin-top: 50px;
+}
+
+.content{
+    width: 960px;
+    margin: 0 auto;
+}
+
+p,h1,h2,h3,h4,h5,h6{
+    margin-top: 0;
+}
+
+.logo img{
+    vertical-align: bottom;
+    width: 75px;
+    height: 75px;
+}
+
+#wrap{
+    clear: both;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    padding: 20px 0;
+}
+
+footer small{
+    font-size: 12px;
+}
+
+#index h2{
+    font-size: 100px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 50px;
+}
+
+#index h2{
+    font-size: 50px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 50px;
+}
+
+#index h4{
+    font-size: 30px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+
+#index .content{
+    margin-top: 150px;
+}
+
+#index p{
+    font-size: 16px;
+    color: black;
+}
+
+#index footer{
+    width: 960px;
+    margin: 150px auto 0 auto;
+    text-align: left;
+}
+
+#index{
+    background-image: url(../images/haikei.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#wrap img{
+    width: 960px;
+    margin: 10px auto 0 auto;
+}
