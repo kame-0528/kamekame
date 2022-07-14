@@ -78,6 +78,14 @@ footer small{
     margin-bottom: 25px;
 }
 
+#index h6{
+    font-size: 15px;
+    line-height: 1;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+
 #index .content{
     margin-top: 150px;
 }
